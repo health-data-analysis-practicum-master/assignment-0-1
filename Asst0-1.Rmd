@@ -4,9 +4,9 @@ author: "Your Name"
 date: "Today's date"
 output: html_document
 ---
-**Due Wednesday, January 24 @ 11:59pm through Github**
+**Due Thursday, January 23 @ 11:59pm through Github**
 
-Please provide some brief information about yourself through this R Markdown (`.Rmd`) file that you will submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this as your opportunity to practice the homework submission process.
+Please provide some brief information about yourself through this R Markdown (`.Rmd`) file that you will submit through GitHub.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this as your opportunity to practice the homework submission process.
 
 **Work through the following items:**
 
@@ -21,9 +21,9 @@ Please provide some brief information about yourself through this R Markdown (`.
 * **Preferred name:** Dr. Taub
 * **Pronunciation of your name:** Towwwb
 * **Pronouns (if you want to share, otherwise just leave blank):** she/her/hers and she/her/hers
-* **What is your previous experience with R?**  I have been using R to analyze data for almost 20 years, but am learning new things about it all the time.  As further evidence of my love of R, I co-organize the local R Ladies Baltimore chapter. It is a great way to connect with other folks in the R community and continue to learn new tools.
+* **What is your previous experience with R?**  I have been using R to analyze data for more than 20 years, but am learning new things about it all the time.  As further evidence of my love of R, I co-organize the local R Ladies Baltimore chapter. It is a great way to connect with other folks in the R community and continue to learn new tools.
 * **Why are you taking this course? Please tell us at least one specific topic or method or programming technique you want to learn more about!** One reason I like to teach this course because of the variety of projects you choose to do for your individual projects in this course.  It's a great opportunity to teach you about data analysis with a smaller class size than the big Public Health Biostats course. 
-* **Anything else you would like us to know?** I am looking forward to working with you this semester and am eager to support your learning in any way I can. If you have questions or concerns at any point in the semester, please let me know so I can help.  If you have a particular concern as we start the semester, you can list it here or reach out over email.  I'm happy to schedule a time to talk with you individually or over Zoom as well.
+* **Anything else you would like us to know?** I am looking forward to working with you this semester and am eager to support your learning in any way I can. If you have questions or concerns at any point in the semester, please let me know so I can help.  If you have a particular concern as we start the semester, you can list it here or reach out over email (to phbiostats@jhu.edu).  I'm happy to schedule a time to talk with you individually or over Zoom as well.
 
 4. One way you can interact with an `.Rmd` file is by running code "chunks" by clicking the green triangle at the top of the chunk.  Run the code chunk below:
 
@@ -32,7 +32,7 @@ height <- c(60, 62, 71, 69, 72, 61, 61, 65)
 mean(height)
 ```
 
-5. Write one sentence to desribe what you see in the output from the code chunk.  This sentence doesn't need to be profound.
+5. Write one sentence to describe what you see in the output from the code chunk.  This sentence doesn't need to be profound.
 
 **Fill in your sentence here!**
 
